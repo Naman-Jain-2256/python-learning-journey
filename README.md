@@ -50,8 +50,8 @@ However, basic familiarity with the following will help:
 
 ### 🐍 Python Basics
 
-- 🕓 [Introduction to Python](Basics/introduction.md)
-- 🕓 [Installing Python & VS Code](Basics/installing-python.md)
+- ✅ [Introduction to Python](Basics/introduction.md)
+- ✅ [Installing Python & VS Code](Basics/installing-python.md)
 - 🕓 [Hello World & Print Statements](Basics/hello-world.md)
 - 🕓 [Comments and Code Structure](Basics/comments.md)
 - 🕓 [Variables and Data Types](Basics/variables-data-types.md)
