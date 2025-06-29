@@ -50,37 +50,37 @@ However, basic familiarity with the following will help:
 
 ### 🐍 Python Basics
 
-- ✅ [Introduction to Python](Basics/introduction.md)
-- ✅ [Installing Python & VS Code](Basics/installing-python.md)
-- 🕓 [Hello World & Print Statements](Basics/hello-world.md)
-- 🕓 [Comments and Code Structure](Basics/comments.md)
-- 🕓 [Variables and Data Types](Basics/variables-data-types.md)
-- 🕓 [Type Casting](Basics/type-casting.md)
-- 🕓 [Operators (Arithmetic, Comparison, Logical)](Basics/operators.md)
-- 🕓 [Input and Output](Basics/input-output.md)
-- 🕓 [Conditionals (if-elif-else)](Basics/conditionals.md)
-- 🕓 [Loops (for, while)](Basics/loops.md)
-- 🕓 [Break, Continue, Pass](Basics/loop-controls.md)
+- ✅ [Introduction to Python](python-basics/introduction.md)
+- ✅ [Installing Python & VS Code](python-basics/installing-python.md)
+- 🕓 [Hello World & Print Statements](python-basics/hello-world.md)
+- 🕓 [Comments and Code Structure](python-basics/comments.md)
+- 🕓 [Variables and Data Types](python-basics/variables-data-types.md)
+- 🕓 [Type Casting](python-basics/type-casting.md)
+- 🕓 [Operators (Arithmetic, Comparison, Logical)](python-basics/operators.md)
+- 🕓 [Input and Output](python-basics/input-output.md)
+- 🕓 [Conditionals (if-elif-else)](python-basics/conditionals.md)
+- 🕓 [Loops (for, while)](python-basics/loops.md)
+- 🕓 [Break, Continue, Pass](python-basics/loop-controls.md)
 
 ---
 
 ### 🗃 Data Structures in Python
 
-- 🕓 [Strings](DataStructures/strings.md)
-- 🕓 [Lists](DataStructures/lists.md)
-- 🕓 [Tuples](DataStructures/tuples.md)
-- 🕓 [Dictionaries](DataStructures/dictionaries.md)
-- 🕓 [Sets](DataStructures/sets.md)
+- 🕓 [Strings](datastructures/strings.md)
+- 🕓 [Lists](datastructures/lists.md)
+- 🕓 [Tuples](datastructures/tuples.md)
+- 🕓 [Dictionaries](datastructures/dictionaries.md)
+- 🕓 [Sets](datastructures/sets.md)
 
 ---
 
 ### 🧰 Functions & Modules
 
-- 🕓 [Defining Functions](Functions/functions.md)
-- 🕓 [Parameters and Return Values](Functions/parameters-return.md)
-- 🕓 [Lambda Functions](Functions/lambda.md)
-- 🕓 [Built-in vs User-defined Functions](Functions/builtins-vs-user.md)
-- 🕓 [Importing Modules](Functions/modules.md)
+- 🕓 [Defining Functions](functions-and-modules/functions.md)
+- 🕓 [Parameters and Return Values](functions-and-modules/parameters-return.md)
+- 🕓 [Lambda Functions](functions-and-modules/lambda.md)
+- 🕓 [Built-in vs User-defined Functions](functions-and-modules/builtins-vs-user.md)
+- 🕓 [Importing Modules](functions-and-modules/modules.md)
 
 ---
 
@@ -88,43 +88,44 @@ However, basic familiarity with the following will help:
 
 *(Folder: `Functions-Recreated/`)*
 
-- 🕓 [len()](Functions-Recreated/len.md)
-- 🕓 [find()](Functions-Recreated/find.md)
-- 🕓 [index()](Functions-Recreated/index.md)
-- 🕓 [count()](Functions-Recreated/count.md)
-- 🕓 [sum()](Functions-Recreated/sum.md)
-- 🕓 [min() / max()](Functions-Recreated/min-max.md)
-- 🕓 [sorted()](Functions-Recreated/sorted.md)
-- 🕓 [reversed()](Functions-Recreated/reversed.md)
-- 🕓 [split()](Functions-Recreated/split.md)
-- 🕓 [join()](Functions-Recreated/join.md)
-- 🕓 [strip()](Functions-Recreated/strip.md)
-- 🕓 [enumerate()](Functions-Recreated/enumerate.md)
-- 🕓 [zip()](Functions-Recreated/zip.md)
-- 🕓 [map()](Functions-Recreated/map.md)
-- 🕓 [filter()](Functions-Recreated/filter.md)
+- 🕓 [len()](functions-recreated/len.md)
+- 🕓 [find()](functions-recreated/find.md)
+- 🕓 [index()](functions-recreated/index.md)
+- 🕓 [count()](functions-recreated/count.md)
+- 🕓 [sum()](functions-recreated/sum.md)
+- 🕓 [min() / max()](functions-recreated/min-max.md)
+- 🕓 [sorted()](functions-recreated/sorted.md)
+- 🕓 [reversed()](functions-recreated/reversed.md)
+- 🕓 [split()](functions-recreated/split.md)
+- 🕓 [join()](functions-recreated/join.md)
+- 🕓 [strip()](functions-recreated/strip.md)
+- 🕓 [enumerate()](functions-fecreated/rnumerate.md)
+- 🕓 [zip()](functions-recreated/zip.md)
+- 🕓 [map()](functions-recreated/map.md)
+- 🕓 [filter()](functions-recreated/filter.md)
 
 ---
 
 ### 🧪 Problem Solving
 
-- 🕓 [Basic Pattern Problems](ProblemSolving/patterns.md)
-- 🕓 [List & String Manipulation Challenges](ProblemSolving/list-string-problems.md)
-- 🕓 [Beginner Mini Projects](ProblemSolving/mini-projects.md)
+- 🕓 [Basic Pattern Problems](problemsolving/patterns.md)
+- 🕓 [List & String Manipulation Challenges](problesolving/list-string-problems.md)
+- 🕓 [Beginner Mini Projects](problemsolving/mini-projects.md)
 
 ---
 
 ## 🗂 Repository Structure
-
+```
 python-learning-journey/
 ├── Notes/
-│   ├── Basics/
-│   ├── DataStructures/
-│   ├── Functions/
-│   ├── Functions-Recreated/
-│   └── ProblemSolving/
+│   ├── python-basics/
+│   ├── datastructures/
+│   ├── functions-and-modules/
+│   ├── functions-recreated/
+│   └── problemsolving/
 ├── LICENSE
 └── README.md
+```
 
 ---
 
