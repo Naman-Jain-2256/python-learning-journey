@@ -107,7 +107,7 @@ Embrace the learning process — every expert was once a beginner.
 ## 🚀 Next Steps
 
 Now that you have Python and VS Code installed, it’s time to dive into the basics of Python programming!
-👉 [Continue to: Hello World & Print Statements →](../Basics/hello-world.md)
+👉 [Continue to: Hello World & Print Statements →](../python-basics/hello-world.md)
 
 ---
 
