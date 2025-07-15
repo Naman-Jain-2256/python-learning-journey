@@ -52,7 +52,7 @@ However, basic familiarity with the following will help:
 
 - ✅ [Introduction to Python](python-basics/introduction.md)
 - ✅ [Installing Python & VS Code](python-basics/installing-python.md)
-- 🕓 [Hello World & Print Statements](python-basics/hello-world.md)
+- ✅ [Hello World & Print Statements](python-basics/hello-world.md)
 - 🕓 [Comments and Code Structure](python-basics/comments.md)
 - 🕓 [Variables and Data Types](python-basics/variables-data-types.md)
 - 🕓 [Type Casting](python-basics/type-casting.md)
